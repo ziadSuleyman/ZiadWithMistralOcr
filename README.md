@@ -20,7 +20,7 @@
 You can install the library directly from PyPI:
 
 ```bash
-pip install ziad-with-mistral-ocr
+pip install ziadwithmistralocr
 ````
 
 > For testing, you can also use Test PyPI:
