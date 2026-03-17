@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: mistral-batch-ocr
+Version: 0.1.0
+Summary: Batch OCR processing using Mistral API
+Author: Ziad Suleyman
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: mistralai
+Dynamic: license-file

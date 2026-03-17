@@ -1,0 +1,14 @@
+[project]
+name = "ZiadWithMistralOcr"
+version = "0.1.0"
+description = "Batch OCR processing using Mistral API"
+authors = [{ name="Ziad Suleyman" }]
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "mistralai"
+]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"

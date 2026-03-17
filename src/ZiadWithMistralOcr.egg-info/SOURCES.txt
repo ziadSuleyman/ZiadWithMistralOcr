@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+src/ZiadWithMistralOcr.egg-info/PKG-INFO
+src/ZiadWithMistralOcr.egg-info/SOURCES.txt
+src/ZiadWithMistralOcr.egg-info/dependency_links.txt
+src/ZiadWithMistralOcr.egg-info/requires.txt
+src/ZiadWithMistralOcr.egg-info/top_level.txt
+src/ziadwithmistalocr/__init__.py
+src/ziadwithmistalocr/core.py
+src/ziadwithmistalocr/processor.py
+src/ziadwithmistalocr/utils.py
